@@ -4,10 +4,10 @@
          xmlns="http://www.w3.org/ns/widgets"
          xmlns:gap="http://phonegap.com/ns/1.0"
          xmlns:android="http://schemas.android.com/apk/res/android">
-         
+
     <name>Controller</name>
     <description>
-        Controllert E-Comerce
+        Controllet E-Commerce
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         Elohim Sytems
